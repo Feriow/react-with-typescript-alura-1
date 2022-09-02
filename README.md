@@ -1,3 +1,9 @@
+# React: Writing with typescript Alura Course
+
+This repository contains the project developed in the first React with Typescript Alura course.
+
+In this course I've developed a tasklist app with a timer. Some of the concepts practiced in the project were: Class Components, Functional Components, SASS, React hooks (useState and useEffect).
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
